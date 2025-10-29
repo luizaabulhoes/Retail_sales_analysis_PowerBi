@@ -41,14 +41,6 @@ Tables are connected through the **`NroPedido`** (Order Number) field.
 
 ---
 
-### 🌐 View the Project
-🖥️ **Interactive Dashboard:**  
-👉 [View on Power BI Online](https://app.powerbi.com/reportEmbed?reportId=ca0f2c4f-45a5-4165-ae82-4ee51d476882&autoAuth=true&ctid=b7639e46-4c53-4576-8a51-6e477292ae01)
-
-📎 **PDF Version:** [Download Report](#)
-
----
-
 ### 💡 Learnings
 - Data cleaning and modeling in Power BI  
 - Creating DAX measures for KPI analysis  
