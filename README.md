@@ -1,69 +1,63 @@
-📊 Grupo Varejo Brasil – Sales Analysis Dashboard
+## 📊 Grupo Varejo Brasil – Sales Analysis Dashboard
 
-This project was developed as part of the Power BI course at EBAC, with the goal of building an interactive dashboard to analyze sales performance, customer behavior, and product categories across a retail group.
+Interactive Power BI dashboard analyzing sales data from Grupo Varejo Brasil. Includes insights by product, department, and region, highlighting purchase patterns, customer profiles, and sales performance to support data-driven retail decisions.
 
-The report applies data modeling, DAX calculations, and storytelling visualization techniques to uncover actionable insights that support business decision-making.
+---
 
-🎯 Project Objectives
+### 🎯 Project Objectives
+- Analyze sales performance by product, department, and region  
+- Identify purchase patterns and customer segments  
+- Create KPIs and compare sales targets vs. actuals  
+- Deliver an executive overview through a clear, interactive dashboard  
 
-Analyze sales performance by product, department, and region;
+---
 
-Identify purchase patterns and customer segments;
+### 🧩 Dataset Overview
+The dataset is fictional and simulates the operations of a Brazilian retail group.  
+Tables are connected through the **`NroPedido`** (Order Number) field.
 
-Create key performance indicators (KPIs) and compare actual vs. target sales;
+| Table | Key Fields | Description |
+|--------|-------------|-------------|
+| **Departments** | `CodDepto`, `DescDepto` | Identifies and describes each department |
+| **Orders** | `NroPedido`, `DataPedido`, `FormaDePagamento`, `CondicaoPagamento` | Order details |
+| **Order Items** | `CodProduto`, `Quantidade`, `ValorUnitario`, `ValorDescontoItem` | Product and sales data |
+| **Customers** | `Variavel`, `Valor` | Anonymized customer info (gender and age group) |
 
-Deliver a strategic management view through an intuitive and interactive dashboard.
+---
 
-🧩 Dataset Overview
+### 🛠️ Tools & Technologies
+- **Power BI Desktop** – Data modeling, DAX, and visualization  
+- **Power BI Service** – Publishing and sharing reports  
+- **Excel** – Initial data exploration  
 
-The dataset is fictional and was provided as part of the learning program.
-It simulates the operations of a large Brazilian retail company, with tables connected through the field NroPedido (Order Number).
+---
 
-Table	Key Fields	Description
-Departments	CodDepto, DescDepto	Identifies and describes each department
-Orders	NroPedido, DataPedido, FormaDePagamento, CondicaoPagamento	Details of each customer order
-Order Items	CodProduto, Quantidade, ValorUnitario, ValorDescontoItem	Product details and sales values
-Customers	Variavel, Valor	Anonymized customer data (gender and age range)
-🛠️ Tools & Technologies
+### 📈 Key Insights
+- Monthly sales trends and revenue growth  
+- Top-performing departments and products  
+- Regional sales distribution  
+- Comparison between actual sales and targets  
+- Executive summary with consolidated KPIs  
 
-Power BI Desktop: data modeling, relationships, and DAX calculations
+---
 
-Power BI Service: report publishing and online sharing
+### 🌐 View the Project
+🖥️ **Interactive Dashboard:**  
+👉 [View on Power BI Online](https://app.powerbi.com/reportEmbed?reportId=ca0f2c4f-45a5-4165-ae82-4ee51d476882&autoAuth=true&ctid=b7639e46-4c53-4576-8a51-6e477292ae01)
 
-Excel: initial data exploration and validation
+📎 **PDF Version:** [Download Report](#)
 
-📈 Main Insights
+---
 
-Monthly Sales Trend: evolution of total sales over time
+### 💡 Learnings
+- Data cleaning and modeling in Power BI  
+- Creating DAX measures for KPI analysis  
+- Building intuitive dashboards for business insights  
+- Applying data storytelling for decision-making  
 
-Top Departments & Products: categories with the highest revenue contribution
+---
 
-Regional Performance: geographic breakdown of sales results
+### 👩‍💻 Author
+Developed by **Maria Luiza Amorim**  
+🔗 [LinkedIn](#) • [GitHub](#)
 
-Sales Targets vs. Actuals: performance tracking against goals
-
-Executive Dashboard: consolidated KPIs with a comparative scatter plot
-
-🌐 Project Access
-
-🖥️ Interactive Dashboard (Power BI Online):
-👉 View the Report
-
-📎 Alternative Version: Download PDF
- (add link once available)
-
-💡 Key Learnings
-
-Data cleaning and modeling best practices in Power BI
-
-Building complex DAX measures to calculate KPIs
-
-Designing interactive dashboards with business-focused insights
-
-Applying data storytelling principles for clearer decision-making
-
-👩‍💻 Author
-
-Developed by Maria Luiza Bulhões
-🔗 LinkedIn
- • GitHub
