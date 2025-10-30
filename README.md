@@ -29,9 +29,8 @@ Tables are connected through the **NroPedido (Order Number)** field.
 
 ### 🛠️ Tools & Technologies
 - Power BI Desktop – Data modeling, DAX, and visualization  
-- Power BI Service – Publishing and sharing reports  
-- Excel – Initial data exploration  
-
+- Power BI Service – Publishing and sharing reports
+  
 ---
 
 ### 📈 Key Insights
