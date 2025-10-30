@@ -51,5 +51,6 @@ Tables are connected through the **NroPedido (Order Number)** field.
 ---
 
 👩‍💻 **Author:** Maria Luiza Bulhões  
+🎓 **Project developed as part of the Power BI course at [EBAC – Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br/)** 
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-luiza-bulh%C3%B5es-472949a0/) • [GitHub](https://github.com/luizaabulhoes)
 
