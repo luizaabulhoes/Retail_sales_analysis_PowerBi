@@ -1,6 +1,8 @@
-## 📊 Grupo Varejo Brasil – Sales Analysis Dashboard
+# 📊 Grupo Varejo Brasil – Sales Analysis Dashboard
 
-Interactive Power BI dashboard analyzing sales data from Grupo Varejo Brasil. Includes insights by product, department, and region, highlighting purchase patterns, customer profiles, and sales performance to support data-driven retail decisions.
+Interactive Power BI dashboard analyzing sales data from **Grupo Varejo Brasil**. Includes insights by product, department, and region, highlighting purchase patterns, customer profiles, and sales performance to support data-driven retail decisions.
+
+🔗 **[View Dashboard on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZThmNzQ4MGQtYTA4ZC00ZDM2LWE5MjktMWZkYjhmODU5YWViIiwidCI6IjEwNDdhYjVlLTdjYjAtNDY1ZS05ZjcyLTk1NDVhOWVkYTIxYyJ9)**
 
 ---
 
@@ -14,21 +16,21 @@ Interactive Power BI dashboard analyzing sales data from Grupo Varejo Brasil. In
 
 ### 🧩 Dataset Overview
 The dataset is fictional and simulates the operations of a Brazilian retail group.  
-Tables are connected through the **`NroPedido`** (Order Number) field.
+Tables are connected through the **NroPedido (Order Number)** field.
 
 | Table | Key Fields | Description |
 |--------|-------------|-------------|
-| **Departments** | `CodDepto`, `DescDepto` | Identifies and describes each department |
-| **Orders** | `NroPedido`, `DataPedido`, `FormaDePagamento`, `CondicaoPagamento` | Order details |
-| **Order Items** | `CodProduto`, `Quantidade`, `ValorUnitario`, `ValorDescontoItem` | Product and sales data |
-| **Customers** | `Variavel`, `Valor` | Anonymized customer info (gender and age group) |
+| Departments | CodDepto, DescDepto | Identifies and describes each department |
+| Orders | NroPedido, DataPedido, FormaDePagamento, CondicaoPagamento | Order details |
+| Order Items | CodProduto, Quantidade, ValorUnitario, ValorDescontoItem | Product and sales data |
+| Customers | Variavel, Valor | Anonymized customer info (gender and age group) |
 
 ---
 
 ### 🛠️ Tools & Technologies
-- **Power BI Desktop** – Data modeling, DAX, and visualization  
-- **Power BI Service** – Publishing and sharing reports  
-- **Excel** – Initial data exploration  
+- Power BI Desktop – Data modeling, DAX, and visualization  
+- Power BI Service – Publishing and sharing reports  
+- Excel – Initial data exploration  
 
 ---
 
@@ -49,7 +51,6 @@ Tables are connected through the **`NroPedido`** (Order Number) field.
 
 ---
 
-### 👩‍💻 Author
-Developed by **Maria Luiza Amorim**  
-🔗 [LinkedIn](#) • [GitHub](#)
+👩‍💻 **Author:** Maria Luiza Bulhões  
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-luiza-bulh%C3%B5es-472949a0/) • [GitHub](https://github.com/luizaabulhoes)
 
